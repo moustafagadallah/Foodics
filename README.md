@@ -7,9 +7,9 @@
 # 4 - JSON Parsing.
 
 
-note : i didn't make the full requirments , and there is a problem in json model parsing.
+Note : i didn't make the full requirments , and there is a problem in json model parsing.
 
-my goal to make code cleaned as possible.
+my main goal to make code cleaned as possible.
 
 # hope meet your exepectations
 
